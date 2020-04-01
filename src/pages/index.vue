@@ -102,11 +102,11 @@
         pintuOpen: false,
         imgIndex: 0,
         toolArr: [
-          {
-            iconClass: 'huaban',
-            type: 'huaban',
-            select: false
-          },
+          // {
+          //   iconClass: 'huaban',
+          //   type: 'huaban',
+          //   select: false
+          // },
           {
             iconClass: 'huabi',
             type: 'pen',
@@ -414,6 +414,8 @@
         margin-left: 110px;
         width: 95%;
         height: 100%;
+        padding-right: 50px;
+        overflow: auto;
       }
     }
     .footer{
