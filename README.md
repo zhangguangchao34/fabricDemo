@@ -21,10 +21,10 @@ npm run lint
 ```
 ## 支持功能
 #### 1、图片插入；2、拼接图片；3、图片裁剪；4、撤销；5、一键还原6、自由画笔、直线、虚线、箭头放大、缩小、橡皮擦、旋转等功能
-![效果图](https://raw.githubusercontent.com/zhangguangchao34/fabricDemo/master/readmeImage/1.jpg)
-![效果图](https://raw.githubusercontent.com/zhangguangchao34/fabricDemo/master/readmeImage/2.jpg)
-![效果图](https://raw.githubusercontent.com/zhangguangchao34/fabricDemo/master/readmeImage/3.jpg)
-![效果图](https://raw.githubusercontent.com/zhangguangchao34/fabricDemo/master/readmeImage/4.jpg)
+![效果图](https://raw.githubusercontent.com/zhangguangchao34/fabricDemo/master/readmeImage/1.jpeg)
+![效果图](https://raw.githubusercontent.com/zhangguangchao34/fabricDemo/master/readmeImage/2.jpeg)
+![效果图](https://raw.githubusercontent.com/zhangguangchao34/fabricDemo/master/readmeImage/3.jpeg)
+![效果图](https://raw.githubusercontent.com/zhangguangchao34/fabricDemo/master/readmeImage/4.jpeg)
 ## fabric 的使用 （官网http://fabricjs.com/）
 ```
 1、安装：npm install fabric
