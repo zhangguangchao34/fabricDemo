@@ -22,8 +22,8 @@ npm run lint
 # 支持功能
 #### 1、图片插入；2、拼接图片；3、图片裁剪；4、撤销；5、一键还原6、自由画笔、直线、虚线、箭头放大、缩小、橡皮擦、旋转等功能
 ```
-![Image text](https://github.com/zhangguangchao34/fabricDemo/blob/master/readmeImage/1.jpg)
-![Image text](https://github.com/zhangguangchao34/fabricDemo/blob/master/readmeImage/2.jpg)
+![Image text](https://raw.githubusercontent.com/zhangguangchao34/fabricDemo/master/src/pages/image/image1.jpeg)
+![Image text](https://raw.githubusercontent.com/zhangguangchao34/fabricDemo/master/readmeImage/2.jpg)
 ![Image text](https://github.com/zhangguangchao34/fabricDemo/blob/master/readmeImage/3.jpg)
 ![Image text](https://github.com/zhangguangchao34/fabricDemo/blob/master/readmeImage/4.jpg)
 ```
